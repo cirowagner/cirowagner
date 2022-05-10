@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ziro</h1>
+<h1 align="center">Hi <a><img src="https://emoji.gg/assets/emoji/1614-holydoge.gif" width="3%" height="3%"/>, I'm Ziro</h1>
 <p align="center"><a><img src="https://i.postimg.cc/NGrkN1nJ/city.gif" width="100%" height="100%"/></a></p>
 <h3 align="center">Developer Indie</h3>
 
